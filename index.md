@@ -1,7 +1,7 @@
 ---
 ---
 
-# liuxin-genomicsDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Xin Liu's research team on genomics
 
 
 
