@@ -1,5 +1,5 @@
 
-# liuxin-genomicsDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# The website for Xin Liu's research team on genomics
 
 Visit **[liuxin-genomics.github.io/liuxin-genomics-team](https://liuxin-genomics.github.io/liuxin-genomics-team)** 🚀
 
